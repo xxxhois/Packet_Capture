@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_8" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/src/test/resources"/>
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<levels>
+		<level name="Maven: org.pcap4j:pcap4j-core:1.8.0" value="project"/>
+		<level name="Maven: net.java.dev.jna:jna:5.3.1" value="project"/>
+		<level name="Maven: org.pcap4j:pcap4j-packetfactory-static:1.8.0" value="project"/>
+		<level name="Maven: org.slf4j:slf4j-api:1.7.30" value="project"/>
+		<level name="Maven: org.slf4j:slf4j-simple:1.7.30" value="project"/>
+	</levels>
+</component>

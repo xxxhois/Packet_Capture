@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.pcap4j:pcap4j-core:1.8.0">
+    <archive path="C:/Users/34401/.m2/repository/org/pcap4j/pcap4j-core/1.8.0/pcap4j-core-1.8.0.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.30">
+    <archive path="C:/Users/34401/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-simple:1.7.30">
+    <archive path="C:/Users/34401/.m2/repository/org/slf4j/slf4j-simple/1.7.30/slf4j-simple-1.7.30.jar" />
+  </library>
+  <library name="Maven: net.java.dev.jna:jna:5.3.1">
+    <archive path="C:/Users/34401/.m2/repository/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar" />
+  </library>
+  <library name="Maven: org.pcap4j:pcap4j-packetfactory-static:1.8.0">
+    <archive path="C:/Users/34401/.m2/repository/org/pcap4j/pcap4j-packetfactory-static/1.8.0/pcap4j-packetfactory-static-1.8.0.jar" />
+  </library>
+</eclipse-userlibraries>
+
